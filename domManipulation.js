@@ -9,7 +9,7 @@ let row1 = document.querySelector(".row-1");
 // CHALLENGE #1 - make the rows match
 
 // 1. Set the styling of `example1` to a background color of black.
-
+example let.style.backgroundColor="black";
 // 2. Set the styling of `pink` to a background color of pink.
 
 // 3. Set the styling of `green` to a background color of green.
@@ -29,7 +29,7 @@ let imageButton = document.querySelector(".image-button");
                                    
 // 7. Add an event listener to `imageButton`
 // - The event type should be "click" or "dblclick"
-
+imageButton.addEventListener("Click", function)
 // Include the next tasks in the body of the function.
 
 // 8. The image is wayyyy too big and needs a border.
